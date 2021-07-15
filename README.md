@@ -13,7 +13,7 @@
 - OSS contributor - [rust-clippy], [diesel]
 - OSS maintainer - [frum], [awesome-alternatives-in-rust]
 
-For more information, please see the link below.
+For more information, please see the links below.
 
 [![about]](https://tako8ki.notion.site/TaKO8Ki-Profile-cfe263b5f0414a90b10369468bcb0ee5) [![blog]](http://blog.tako8ki.me/)
 
