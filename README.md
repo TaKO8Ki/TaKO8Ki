@@ -5,13 +5,14 @@
 [rust-clippy]: https://github.com/rust-lang/rust-clippy
 [diesel]: https://github.com/diesel-rs/diesel
 [frum]: https://github.com/TaKO8Ki/frum
+[gobang]: https://github.com/TaKO8Ki/gobang
 [awesome-alternatives-in-rust]: https://github.com/TaKO8Ki/awesome-alternatives-in-rust
 
 ## About
 
 - Undergraduate student
 - OSS contributor - [rust-clippy], [diesel]
-- OSS maintainer - [frum], [awesome-alternatives-in-rust]
+- OSS maintainer - [frum], [gobang], [awesome-alternatives-in-rust]
 
 For more information, please see the links below.
 
