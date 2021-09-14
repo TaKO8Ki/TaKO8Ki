@@ -12,7 +12,7 @@
 
 - Undergraduate student
 - OSS contributor - [rust-clippy], [diesel]
-- OSS maintainer - [frum], [gobang], [awesome-alternatives-in-rust]
+- OSS author - [frum], [gobang], [awesome-alternatives-in-rust]
 
 For more information, please see the links below.
 
