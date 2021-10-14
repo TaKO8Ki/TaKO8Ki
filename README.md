@@ -2,6 +2,7 @@
 [blog]: https://img.shields.io/static/v1?label=&message=Blog&color=585858&logo=hugo
 [twitter]: https://img.shields.io/static/v1?label=&message=Twitter&&color=585858&logo=twitter
 [linkedin]: https://img.shields.io/static/v1?label=&message=LinkedIn&&color=585858&logo=linkedin
+[email]: https://img.shields.io/static/v1?label=&message=Email&&color=585858&logo=gmail
 [rust]: https://github.com/rust-lang/rust
 [rust-clippy]: https://github.com/rust-lang/rust-clippy
 [diesel]: https://github.com/diesel-rs/diesel
@@ -23,4 +24,4 @@ For more information, please see the links below.
 
 ## Contact
 
-[![twitter]](https://twitter.com/TaKOBKi) [![linkedin]](https://www.linkedin.com/in/tako8ki)
+[![email]](mailto:takoyaki0316@gmail.com) [![twitter]](https://twitter.com/TaKOBKi) [![linkedin]](https://www.linkedin.com/in/tako8ki)
