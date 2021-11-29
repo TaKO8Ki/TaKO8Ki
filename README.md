@@ -10,8 +10,6 @@
 [gobang]: https://github.com/TaKO8Ki/gobang
 [awesome-alternatives-in-rust]: https://github.com/TaKO8Ki/awesome-alternatives-in-rust
 
-✋ **I'm looking for side jobs as a Software Engineer. I'm able to work for 10 hours to 20 hours per week.**
-
 ## About
 
 - Undergraduate student
