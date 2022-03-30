@@ -12,7 +12,6 @@
 
 ## About
 
-- Undergraduate student
 - OSS contributor - [rust], [rust-clippy], [diesel]
 - OSS author - [gobang], [frum], [awesome-alternatives-in-rust]
 
