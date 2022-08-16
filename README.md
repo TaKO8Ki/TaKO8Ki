@@ -18,7 +18,7 @@
 
 For more information, please see the links below.
 
-[![about]](https://tako8ki.notion.site/TaKO8Ki-Profile-cfe263b5f0414a90b10369468bcb0ee5) [![blog]](http://blog.tako8ki.me)
+[![about]](https://tako8ki.notion.site) [![blog]](http://blog.tako8ki.me)
 
 ## Contact
 
