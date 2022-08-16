@@ -3,7 +3,7 @@
 [twitter]: https://img.shields.io/static/v1?label=&message=Twitter&&color=585858&logo=twitter
 [linkedin]: https://img.shields.io/static/v1?label=&message=LinkedIn&&color=585858&logo=linkedin
 [email]: https://img.shields.io/static/v1?label=&message=Email&&color=585858&logo=gmail
-[rust]: https://github.com/rust-lang/rust
+[rust-lang]: https://github.com/rust-lang/rust
 [rust-clippy]: https://github.com/rust-lang/rust-clippy
 [diesel]: https://github.com/diesel-rs/diesel
 [frum]: https://github.com/TaKO8Ki/frum
@@ -12,8 +12,9 @@
 
 ## About
 
-- OSS contributor - [rust], [rust-clippy], [diesel]
-- OSS author - [gobang], [frum], [awesome-alternatives-in-rust]
+- Member of [rust-lang] compiler team contributors
+- Contributor of [rust-clippy], [diesel]
+- Creator of [gobang], [frum], [awesome-alternatives-in-rust]
 
 For more information, please see the links below.
 
