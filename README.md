@@ -9,12 +9,18 @@
 [frum]: https://github.com/TaKO8Ki/frum
 [gobang]: https://github.com/TaKO8Ki/gobang
 [awesome-alternatives-in-rust]: https://github.com/TaKO8Ki/awesome-alternatives-in-rust
+[GitHub Sponsors]: https://github.com/sponsors/TaKO8Ki
+[Sponsors badge]: https://img.shields.io/github/sponsors/TaKO8Ki?label=Sponsors&logo=GitHub&style=social
 
 ## About
 
 - Member of [rust-lang] compiler team contributors
 - Contributor of [rust-clippy], [diesel]
 - Creator of [gobang], [frum], [awesome-alternatives-in-rust]
+
+I'm looking for [GitHub Sponsors].
+
+[![Sponsors badge]](https://github.com/sponsors/TaKO8Ki).
 
 For more information, please see the links below.
 
