@@ -20,7 +20,7 @@
 
 I'm looking for [GitHub Sponsors].
 
-[![Sponsors badge]](https://github.com/sponsors/TaKO8Ki).
+[![Sponsors badge]](https://github.com/sponsors/TaKO8Ki)
 
 For more information, please see the links below.
 
