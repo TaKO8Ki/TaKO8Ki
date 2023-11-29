@@ -13,9 +13,9 @@
 [GitHub Sponsors]: https://github.com/sponsors/TaKO8Ki
 [Sponsors badge]: https://img.shields.io/github/sponsors/TaKO8Ki?label=Sponsors&logo=GitHub&style=social
 
-I'm looking for [GitHub Sponsors].
-
 [![Sponsors badge]](https://github.com/sponsors/TaKO8Ki)
+
+**I'm looking for [GitHub Sponsors]** 🦀
 
 ## About
 
