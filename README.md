@@ -6,7 +6,6 @@
 [rust-lang]: https://github.com/rust-lang/rust
 [rust-clippy]: https://github.com/rust-lang/rust-clippy
 [diesel]: https://github.com/diesel-rs/diesel
-[biome]: https://github.com/biomejs/biome
 [frum]: https://github.com/TaKO8Ki/frum
 [gobang]: https://github.com/TaKO8Ki/gobang
 [awesome-alternatives-in-rust]: https://github.com/TaKO8Ki/awesome-alternatives-in-rust
@@ -19,7 +18,7 @@
 
 ## About
 
-- A committer of [rust-lang], [biome] (compiler team contributors, maintainers team)
+- A committer of [rust-lang] (compiler team contributors, maintainers team)
 - A contributor of [rust-clippy], [diesel]
 - A creator of [gobang], [frum], [awesome-alternatives-in-rust]
 
