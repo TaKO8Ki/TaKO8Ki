@@ -18,7 +18,7 @@
 
 ## About
 
-- A committer of [rust-lang] (compiler team contributors, maintainers team)
+- A committer of [rust-lang] (compiler team)
 - A contributor of [rust-clippy], [diesel]
 - A creator of [gobang], [frum], [awesome-alternatives-in-rust]
 
