@@ -14,7 +14,7 @@
 
 [![Sponsors badge]](https://github.com/sponsors/TaKO8Ki)
 
-**I'm looking for [GitHub Sponsors]** 🦀
+**I'm looking for interesting Rust jobs and [GitHub Sponsors]** 🦀
 
 ## About
 
