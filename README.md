@@ -21,9 +21,10 @@
 
 ## About
 
-- A committer of [rust-lang] (compiler team)
-- A contributor of [rust-clippy], [diesel]
-- A creator of [gobang], [frum], [awesome-alternatives-in-rust]
+- Staff Software Engineer at Money Forward, Inc.
+- Member of [rust-lang] compiler team.
+- Contributor of [rust-clippy], [diesel]
+- Creator of [gobang], [frum], [awesome-alternatives-in-rust]
 
 For more information, please see the links below.
 
