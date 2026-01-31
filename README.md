@@ -15,7 +15,8 @@
 
 [![Sponsors badge]](https://github.com/sponsors/TaKO8Ki)
 
-**I'm actively looking for Open Source jobs 💻 and [GitHub Sponsors]** 🦀
+> [!IMPORTANT]
+> **I'm actively looking for Open Source jobs 💻 and [GitHub Sponsors]** 🦀
 
 [![Resume]](https://drive.google.com/file/d/1MLtM3Sg7tr3-YO8QjTKUoiE-aFIk53bZ/view?usp=drive_link)
 
