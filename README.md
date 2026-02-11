@@ -13,12 +13,10 @@
 [Sponsors badge]: https://img.shields.io/github/sponsors/TaKO8Ki?label=Sponsors&logo=GitHub&style=social
 [Resume]: https://img.shields.io/static/v1?label=&message=Resume&&color=585858
 
-[![Sponsors badge]](https://github.com/sponsors/TaKO8Ki)
-
 > [!IMPORTANT]
 > **I'm actively looking for Open Source jobs 💻 and [GitHub Sponsors]** 🦀
 
-[![Resume]](https://drive.google.com/file/d/1MLtM3Sg7tr3-YO8QjTKUoiE-aFIk53bZ/view?usp=drive_link)
+[![Sponsors badge]](https://github.com/sponsors/TaKO8Ki)
 
 ## About
 
@@ -29,7 +27,7 @@
 
 For more information, please see the links below.
 
-[![about]](https://tako8ki.notion.site) [![blog]](http://blog.tako8ki.me)
+[![Resume]](https://drive.google.com/file/d/1MLtM3Sg7tr3-YO8QjTKUoiE-aFIk53bZ/view?usp=drive_link) [![about]](https://tako8ki.notion.site) [![blog]](http://blog.tako8ki.me)
 
 ## Contact
 
