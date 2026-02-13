@@ -21,7 +21,9 @@
 ## About
 
 - Staff Software Engineer at Money Forward, Inc.
-- Member of [rust-lang] compiler team.
+- Member of [rust-lang] compiler team (Compiler maintainer)
+  - Compiler FCP team
+  - Diagnostics working group
 - Contributor of [rust-clippy], [diesel]
 - Creator of [gobang], [frum], [awesome-alternatives-in-rust]
 
