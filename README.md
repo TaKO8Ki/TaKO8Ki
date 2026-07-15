@@ -5,6 +5,7 @@
 [email]: https://img.shields.io/static/v1?label=&message=Email&&color=585858&logo=gmail
 [rust-lang]: https://github.com/rust-lang/rust
 [rust-clippy]: https://github.com/rust-lang/rust-clippy
+[rtk]: https://github.com/rtk-ai/rtk
 [diesel]: https://github.com/diesel-rs/diesel
 [frum]: https://github.com/TaKO8Ki/frum
 [gobang]: https://github.com/TaKO8Ki/gobang
@@ -23,6 +24,7 @@
 - Member of [rust-lang] compiler team (Compiler maintainer)
   - Compiler FCP team
   - Diagnostics working group
+- Maintainer of [rtk]
 - Contributor of [rust-clippy], [diesel]
 - Creator of [gobang], [frum], [awesome-alternatives-in-rust]
 - Staff Software Engineer at Money Forward, Inc.
