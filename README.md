@@ -31,7 +31,7 @@
 
 For more information, please see the links below.
 
-[![Resume]](https://drive.google.com/file/d/1MLtM3Sg7tr3-YO8QjTKUoiE-aFIk53bZ/view?usp=drive_link) [![about]](https://tako8ki.notion.site) [![blog]](http://blog.tako8ki.me)
+[![Resume]](https://drive.google.com/file/d/1MLtM3Sg7tr3-YO8QjTKUoiE-aFIk53bZ/view?usp=drive_link) [![about]](https://tako8ki.notion.site) [![blog]](http://tako8ki.com)
 
 ## Contact
 
